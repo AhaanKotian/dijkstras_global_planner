@@ -1,0 +1,5 @@
+ <library path="lib/libdjikstras_global_planner_lib">
+  <class name="djikstras_global_planner/Djikstras" type="djikstras_global_planner::Djikstras" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is a custom Djikstras global planner plugin by Ahaan Kotian</description>
+  </class>
+ </library>
